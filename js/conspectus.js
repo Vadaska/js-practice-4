@@ -56,12 +56,14 @@
 // }
 // *****next
 
-const atTheOldToad = {
-  potions: [],
-  getPotions() {
-    return 'List of all available potions';
-  },
-  addPotion(potionName) {
-    return `Adding ${potionName}`;
-  },
-};
+// const atTheOldToad = {
+//   potions: [],
+//   getPotions() {
+//     return 'List of all available potions';
+//   },
+//   addPotion(potionName) {
+//     return `Adding ${potionName}`;
+//   },
+// };
+// !!!!!next
+// console.log(...[1, 2, 3]);
